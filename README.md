@@ -53,4 +53,6 @@ Sou um desenvolvedor com formação em **AWS (Escola da Nuvem)** e **Desenvolvim
 ---
 
 ### 🕹️ Divirta-se (opcional)
-[![Snake animation](https://github.com/Jairfilhobonifacio/Jairfilhobonifacio/blob/output/github-contribution-grid-snake.svg)](https://github.com/Jairfilhobonifacio)
+<img src="https://raw.githubusercontent.com/Jairfilhobonifacio/Jairfilhobonifacio/output/snake.svg" alt="Snake animation" />
+
+###
