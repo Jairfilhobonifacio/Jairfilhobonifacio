@@ -13,7 +13,7 @@
 Sou um desenvolvedor com formação em **AWS (Escola da Nuvem)** e **Desenvolvimento Web Full Stack pelo Programadores do Amanhã**. Atualmente trabalho em projetos próprios, focados em resolver problemas reais com tecnologia acessível, com forte propósito social.
 
 💡 Desenvolvi a **API Yourself**, uma aplicação que conecta doadores a pontos de doação por cidade e tipo de item, usando **Node.js, Express, Leaflet, Chart.js** e muito mais.  
-🎯 Também trabalho com **design, branding e identidade visual**, criando logotipos e materiais para marcas locais com **Photoshop, Illustrator e AutoCAD**.
+🎯 Também trabalho com **design, branding e identidade visual**, criando logotipos e materiais para marcas locais com **Photoshop, Illustrator,Figma e AutoCAD**.
 
 ---
 
