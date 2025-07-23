@@ -40,8 +40,8 @@ Sou um desenvolvedor com formação em **AWS (Escola da Nuvem)** e **Desenvolvim
 ---
 
 ### 📌 Repositórios em Destaque (Pinned)
-- [🧩 API Yourself – Doações Comunitárias](https://github.com/jairfilhobonifacio/api-doacoes)  
-- [🎨 Identidade Visual – Projetos de Branding](https://github.com/jairfilhobonifacio/portfolio-design)
+- [🧩 API Yourself – Doações Comunitárias]( https://github.com/Jairfilhobonifacio/Api-Yourself)  
+- [🎨 Api Mapeamento de casos de racismos no brasil ]( https://github.com/Kelvisduank/mapa-do-racismo)
 
 ---
 
