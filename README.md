@@ -47,8 +47,8 @@ Sou um desenvolvedor com formação em **AWS (Escola da Nuvem)** e **Desenvolvim
 
 ### 📈 Estatísticas do GitHub
 
-![Jair's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jairfilhobonifacio&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jairfilhobonifacio&layout=compact&theme=tokyonight)
+![Jair's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jairfilhobonifacio&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jairfilhobonifacio&layout=compact&theme=tokyonight&hide_border=true&langs_count=10&count_private=true)
 
 ---
 
