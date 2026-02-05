@@ -1,4 +1,3 @@
-
 <h1 align="center">Olá, eu sou o Jair 👋</h1>
 
 <p align="center">
@@ -13,7 +12,7 @@
 Sou um desenvolvedor com formação em **AWS (Escola da Nuvem)** e **Desenvolvimento Web Full Stack pelo Programadores do Amanhã**. Atualmente trabalho em projetos próprios, focados em resolver problemas reais com tecnologia acessível, com forte propósito social.
 
 💡 Desenvolvi a **API Yourself**, uma aplicação que conecta doadores a pontos de doação por cidade e tipo de item, usando **Node.js, Express, Leaflet, Chart.js** e muito mais.  
-🎯 Também trabalho com **design, branding e identidade visual**, criando logotipos e materiais para marcas locais com **Photoshop, Illustrator,Figma e AutoCAD**.
+🎯 Também trabalho com **design, branding e identidade visual**, criando logotipos e materiais para marcas locais com **Photoshop, Illustrator, Figma e AutoCAD**.
 
 ---
 
@@ -34,26 +33,26 @@ Sou um desenvolvedor com formação em **AWS (Escola da Nuvem)** e **Desenvolvim
 
 ### 🔗 Vamos nos conectar?
 
-[![LinkedIn >](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/jair-dev)  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/jair-dev)  
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)](https://github.com/Jairfilhobonifacio)
 
 ---
 
 ### 📌 Repositórios em Destaque (Pinned)
-- [🧩 API Yourself – Doações Comunitárias]( https://github.com/Jairfilhobonifacio/Api-Yourself)  
-- [🎨 Api Mapeamento de casos de racismos no brasil ]( https://github.com/Kelvisduank/mapa-do-racismo)
+
+- [🧩 API Yourself – Doações Comunitárias](https://github.com/Jairfilhobonifacio/Api-Yourself)  
+- [🎨 Mapeamento de casos de racismo no Brasil](https://github.com/Kelvisduank/mapa-do-racismo)
 
 ---
 
-
 ### 📈 Estatísticas do GitHub
 
-![Jair's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jairfilhobonifacio&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github)
+![Jair's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jairfilhobonifacio&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jairfilhobonifacio&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jairfilhobonifacio&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
 
+---
 
-### 🕹️ Divirta-se (opcional)
+### 🕹️ Divirta-se
+
 <img src="https://raw.githubusercontent.com/Jairfilhobonifacio/Jairfilhobonifacio/output/snake.svg" alt="Snake animation" />
-
-###
