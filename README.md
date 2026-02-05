@@ -51,6 +51,9 @@ Sou um desenvolvedor com formação em **AWS (Escola da Nuvem)** e **Desenvolvim
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jairfilhobonifacio&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
 
+![Total de commits](https://github-readme-stats.vercel.app/api?username=Jairfilhobonifacio&include_all_commits=true&hide=contribs,prs,issues,stars&hide_rank=true&show_icons=false)
+
+
 ---
 
 ### 🕹️ Divirta-se
