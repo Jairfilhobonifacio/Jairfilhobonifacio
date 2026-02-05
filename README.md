@@ -52,7 +52,6 @@ Sou um desenvolvedor com formação em **AWS (Escola da Nuvem)** e **Desenvolvim
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jairfilhobonifacio&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&count_private=true)
 
----
 
 ### 🕹️ Divirta-se (opcional)
 <img src="https://raw.githubusercontent.com/Jairfilhobonifacio/Jairfilhobonifacio/output/snake.svg" alt="Snake animation" />
